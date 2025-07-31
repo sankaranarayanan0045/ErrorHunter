@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+hi this 
+is a
+file.
+=======
+how 
+are 
+u
+>>>>>>> ffdc799 (new file in main)
