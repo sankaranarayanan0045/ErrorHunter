@@ -35,3 +35,4 @@ else:
 lis1 = eval(input("Enter list 1: "))
 lis2 = eval(input("Enter list 2: "))
 print(comp(lis1, lis2))
+
